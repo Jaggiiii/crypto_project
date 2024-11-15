@@ -2,6 +2,7 @@
 [![python3](https://img.shields.io/badge/python3-v3.6-green?style=for-the-badge&logo=python)](https://www.python.org)
 
 
+ 
 # NTRU_cryptography
 A Post-Quantum Encryption Algorithm
 
@@ -50,5 +51,11 @@ $ pip3 install -r requirements.txt
 ## Output
 
 ![Screenshot from 2020-02-06 12-43-24](https://user-images.githubusercontent.com/36446402/73914025-5d17c580-48de-11ea-8ae5-b07e0940b306.png)
+
+# Project Contributions
+ 22bcs033 ,
+ 22bcs038 , 
+ 22bcs049 ,
+ 22bcs067
 
 
